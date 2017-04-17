@@ -1,0 +1,57 @@
+body{
+	margin:0;
+	padding:0; 
+}
+.bienvenido{
+	text-align:center;
+	padding:0;
+	margin: 0;
+	color: red;
+	height:150px;
+	font-size:50px;  
+}
+.cuerpo{
+	background:black;
+}
+.informacion{
+	height:300px;
+	margin:0;
+	padding:0;     
+}
+.texto{
+	height:100%; 
+	float:right; 
+	width:50%; 
+	background:white; 
+}
+.imagen{
+	height:100%; 
+	float:left; 
+	width:50%;
+	background:url(fondo1.jpg);
+	background-size:cover;   	
+}
+.botones{
+	height:400px;
+	padding:0;
+	margin:0;    
+}
+.asociar{
+	text-align:center;
+	height:100%; 
+	width:50%;
+}
+.gim{
+	display: inline-block;
+    background: green;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.info{
+	color:black;
+	font-size:20px;
+	text-align:center;
+	float:top;  
+}
