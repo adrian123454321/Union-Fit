@@ -14,3 +14,4 @@ from django.db import models
  		self.telefono
  		self.contraseña
  		self.usuario
+# Create your models here.
