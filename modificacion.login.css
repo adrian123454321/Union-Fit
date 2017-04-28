@@ -1,0 +1,48 @@
+body{
+	margin:0;
+	padding:0;
+	background:url(logo.jpg.png); 
+	background-size:10%;   
+}
+.bienvenido{
+	height: 155px;
+	margin:0;
+	padding:0; 
+}
+.or{
+	background:red;
+	height:85%;
+	width:90%;
+	float:left;   
+}
+.col{
+	background:gray;
+	height:70%;
+	width:80%;
+	float:left;   
+}
+.imagen{
+	height:100%;
+	width:50%;  
+	float:right; 
+}
+.texto{
+	height:100%;
+	width:50%;
+	float:left;
+	background:black;  
+}
+.log{
+	color:red;
+	font-size:40px;
+	text-align:center;  
+}
+.back{
+	text-align:center; 
+	display: inline-block;
+    background: green;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}

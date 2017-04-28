@@ -1,8 +1,55 @@
 body{
 	padding:0;
 	margin:0;
-	background-color:black;   
+	background:url(logo.jpg.png); 
+	background-size:10%;   
 }
-.h{
-	color:white;
+.bienvenido{
+	height:155px;
+	padding:0;
+	margin:0;   
+}
+.texto{
+	font-size:28px; 
+	width:50%;
+	height:100%;
+	color:red;
+	background:black;
+	float:left; 
+}
+.back{
+	text-align:center; 
+	display: inline-block;
+    background: green;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.col{
+	background:red;
+	height:85%;
+	width:90%;
+	float:left;   
+}
+.or{
+	background:gray;
+	height:70%;
+	width:80%;
+	float:left; 	
+}
+.precios{
+	height:30px;
+}
+.amateur{
+	text-align:center; 
+	float:left;
+	height:100%;
+	width:50%   
+}
+.pro{
+	text-align:center; 
+	float:right;
+	height:100%;
+	width:50%	
 }
