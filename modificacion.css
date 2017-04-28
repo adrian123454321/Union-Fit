@@ -68,7 +68,7 @@ body{
 }
 .gim{ 
 	display: inline-block;
-    background: green;
+    background: red;
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
@@ -82,7 +82,7 @@ body{
 .gimnasios{
 	text-align:center; 
 	display: inline-block;
-    background: green;
+    background:red;
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
@@ -97,7 +97,7 @@ body{
 .iniciar{
 	text-align:center; 
 	display: inline-block;
-    background: green;
+    background:red;
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
