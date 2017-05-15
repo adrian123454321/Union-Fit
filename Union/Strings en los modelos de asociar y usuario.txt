@@ -1,0 +1,14 @@
+Usuario String
+def __str__(self):
+ 		return"%s - %s"%(
+ 			self.nombre,
+			self.correo)
+
+Asociar String
+ 	def __str__(self):
+ 		return " %s - %s - %s - %s - %s "%(
+ 		self.nombre,
+ 		self.correo,
+ 		self.direccion,
+ 		self.telefono,
+ 		self.precio)
