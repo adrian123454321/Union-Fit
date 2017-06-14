@@ -2,7 +2,7 @@ body{
 	padding:0;
 	margin:0;
 	background:url(logo.jpg.png); 
-	background-size:10%;   
+	background-size:50%;   
 }
 .bienvenido{
 	height:155px;
@@ -20,7 +20,7 @@ body{
 .back{
 	text-align:center; 
 	display: inline-block;
-    background: green;
+    background:red;
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
@@ -52,4 +52,13 @@ body{
 	float:right;
 	height:100%;
 	width:50%	
+}
+.textos{
+	width: 40%;
+   	padding: 12px 20px;
+   	margin: 8px 0;
+   	display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius:10px; 
 }

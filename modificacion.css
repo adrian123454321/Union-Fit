@@ -108,3 +108,24 @@ body{
 	height:50%; 
 	text-align:center;  
 }
+.temporal{
+	height:200px;
+	width:100px;
+	float:right;   
+	text-align:center; 
+	display: inline-block;
+    background:red;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.ero{
+	text-align:center; 
+	display: inline-block;
+    background:red;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
