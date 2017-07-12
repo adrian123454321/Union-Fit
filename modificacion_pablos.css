@@ -4,3 +4,28 @@ body{
 	background:url(pablosgym.jpg);
 	background-size:cover;    
 }
+.botones{
+	text-align:center; 
+	display: inline-block;
+    background:red;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.bienvenido{
+	height:100px;
+
+}
+.texto{
+	height:100%;
+	width:50%;
+	float:left; 
+	color:white;
+	font-size:20px;   
+}
+.back{
+	height:100%;
+	width:50%;
+	float:left;   
+}
